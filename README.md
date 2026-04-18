@@ -3,15 +3,15 @@
 #### **Final Year IT Student @ Bahria University | AI-Driven Cybersecurity | Building "AutoPolicy" (ML + GNNs) for Automated Zero-Trust in IoT Networks**
 
 <div>
-  <a href="**www.linkedin.com/in/kainat-zahra-alvi-sial**">
+  <a href="https://www.linkedin.com/in/kainat-zahra-alvi-sial" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="mailto:**kainatzahra127@gmail.com**">
+  <a href="mailto:kainatzahra127@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
-  <a href="**https://tryhackme.com/p/elinelight**">
+  <a href="https://tryhackme.com/p/elinelight" target="_blank">
     <img src="https://img.shields.io/badge/TRYHACKME-1F2937?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
   </a>
   &nbsp;
@@ -128,5 +128,5 @@ I am actively looking for **Cybersecurity and AI internships**. I am passionate 
 
 If you are working on innovative projects in AI, cybersecurity, or the intersection of both, I’d love to collaborate or contribute. Let's get in touch:
 
-* 🔗 **[LinkedIn](www.linkedin.com/in/kainat-zahra-alvi-sial )**
+* 🔗 **[LinkedIn](https://www.linkedin.com/in/kainat-zahra-alvi-sial )**
 * 📧 **[Email](mailto:kainatzahra127@gmail.com)**
